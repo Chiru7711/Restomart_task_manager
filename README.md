@@ -2,16 +2,25 @@
 
 A full-stack task management application with a React frontend and Express/PostgreSQL backend.
 
+## Screenshots
+
+### Task List View
+![Task List](Frontend/images/task_list.png)
+
+### Add/Edit Task Form
+![Task Form](Frontend/images/add_task.png)
+
 ## Project Structure
 
 ```
-Restomart_task_manager/
+c:\Users\kchir\Desktop\Restomart_task_manager\
 ├── Backend/             # Express.js API
 │   ├── controllers/     # Request handlers
 │   ├── models/          # Database models
 │   ├── routes/          # API routes
 │   └── ...
 └── Frontend/            # React application
+    ├── images/          # Screenshots
     ├── public/          # Static files
     ├── src/             # Source code
     │   ├── components/  # Reusable components
